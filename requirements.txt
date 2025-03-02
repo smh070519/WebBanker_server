@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-jose
+python-dotenv
+email-validator
+pymysql
+sqlalchemy
+mysql-connector-python
+requests
+query 
